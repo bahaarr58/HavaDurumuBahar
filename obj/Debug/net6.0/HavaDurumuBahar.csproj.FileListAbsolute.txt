@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\HavaDurumuBahar\bin\Debug\net6.0\HavaDurumuBahar.exe
+C:\Users\PC\source\repos\HavaDurumuBahar\bin\Debug\net6.0\HavaDurumuBahar.deps.json
+C:\Users\PC\source\repos\HavaDurumuBahar\bin\Debug\net6.0\HavaDurumuBahar.runtimeconfig.json
+C:\Users\PC\source\repos\HavaDurumuBahar\bin\Debug\net6.0\HavaDurumuBahar.dll
+C:\Users\PC\source\repos\HavaDurumuBahar\bin\Debug\net6.0\HavaDurumuBahar.pdb
+C:\Users\PC\source\repos\HavaDurumuBahar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.AssemblyInfo.cs
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.csproj.CopyComplete
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.dll
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\refint\HavaDurumuBahar.dll
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.pdb
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\HavaDurumuBahar.genruntimeconfig.cache
+C:\Users\PC\source\repos\HavaDurumuBahar\obj\Debug\net6.0\ref\HavaDurumuBahar.dll

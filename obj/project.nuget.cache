@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LquFzX5tslxyubaVlsHuJ1TUGRO2l0Y+G+K5bXj+klTQ/dO9JEoCvdTc+yQRKphf/93o+Oi5JmHRqT/gya60KQ==",
+  "success": true,
+  "projectFilePath": "/Users/fenerbahce/Downloads/HavaDurumuBahar/HavaDurumuBahar.csproj",
+  "expectedPackageFiles": [
+    "/Users/fenerbahce/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
